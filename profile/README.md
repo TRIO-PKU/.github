@@ -11,7 +11,7 @@ Welcome to the **Multi-Robot Intelligence Lab**, where we explore the intersecti
 
 Our founding team consists of passionate researchers and engineers from top-tier institutions:
 
-![Junfeng Chen](./images/junfengchen.jpg)
+![Junfeng Chen](../images/junfengchen.jpg)
 
 - 🧠 **Junfeng Chen** — Ph.D. at *Peking University*, system architecture and distributed optimization
 
