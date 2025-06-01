@@ -14,7 +14,10 @@ Welcome to the **Multi-Robot Intelligence Lab**, where we explore the intersecti
 
 Our founding team consists of passionate researchers and engineers from top-tier institutions:
 
+![Junfeng Chen](./images/junfengchen.jpg)
+
 - 🧠 **Junfeng Chen** — Ph.D. at *Peking University*, system architecture and distributed optimization
+
 - 🔍 **Yuxiao Zhu** — 2nd-year M.S. student at *Duke University*, specializing in semantic SLAM and LLM-based decision
 - 🦾 **Xintong Zhang** — 2nd-year M.S. student at *Duke University*, focused on motion planning and human-robot interaction
 
