@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 
 # 🤖 Multi-Robot Intelligence Lab (MRIL)
 
@@ -63,4 +60,4 @@ We code with passion, debug with curiosity — and fuel ourselves with coffee, b
 
 All code and documents in this organization are licensed under the [MIT License](./LICENSE), unless otherwise specified.
 
--->
+
