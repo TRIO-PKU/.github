@@ -1,7 +1,7 @@
 
-# 🤖 Multi-Robot Intelligence Lab (MRIL)
+# 🤖 Mul<u>t</u>i-<u>R</u>obot <u>I</u>ntelligence Gr<u>o</u>up (TRIO)
 
-Welcome to the **Multi-Robot Intelligence Lab**, where we explore the intersection of **Artificial Intelligence**, **Optimization**, and **Multi-Robot Systems** to build the future of intelligent autonomy — for good.
+Welcome to the **Multi-Robot Intelligence Group**, where we explore the intersection of **Artificial Intelligence**, **Optimization**, and **Multi-Robot Systems** to build the future of intelligent autonomy — for good.
 
 ---
 
@@ -11,12 +11,11 @@ Welcome to the **Multi-Robot Intelligence Lab**, where we explore the intersecti
 
 Our founding team consists of passionate researchers and engineers from top-tier institutions:
 
-![Junfeng Chen](../images/junfengchen.jpg)
+![Junfeng Chen](../images/group_photo_CocoPlan.webp)
 
-- 🧠 **Junfeng Chen** — Ph.D. at *Peking University*, system architecture and distributed optimization
-
-- 🔍 **Yuxiao Zhu** — 2nd-year M.S. student at *Duke University*, specializing in semantic SLAM and LLM-based decision
-- 🦾 **Xintong Zhang** — 2nd-year M.S. student at *Duke University*, focused on motion planning and human-robot interaction
+- 🧠 **Junfeng Chen** — Ph.D. at *Peking University*, team leader
+- 🔍 **Yuxiao Zhu** — Junior undergraduate student at *Duke Kunshan University*
+- 🦾 **Xintong Zhang** — Junior undergraduate student at *Duke Kunshan University*
 
 Together, we are committed to unlocking the full potential of **multi-agent robotic systems**, making them smarter, safer, and more helpful to humans in complex environments.
 
@@ -34,17 +33,6 @@ Our mission is to empower robots with:
 
 ---
 
-## 🌐 Join the Community
-
-We welcome collaboration across fields and institutions.
-
-- 📚 Check our [Documentation](./docs)
-- 🧪 Browse our [Research Projects](./projects)
-- 💬 Contact us for collaboration or demo
-
-Whether you're a roboticist, an ML enthusiast, or just curious about how intelligent robots will shape the future — there's a place for you here.
-
----
 
 ## 🍿 Fun Fact
 
