@@ -1,5 +1,5 @@
 
-# 🤖 Mul<u>t</u>i-<u>R</u>obot <u>I</u>ntelligence Gr<u>o</u>up (TRIO)
+# 🤖 Mul[t]()i-[R]()obot [I]()ntelligence Gr[o]()up (TRIO)
 
 Welcome to the **Multi-Robot Intelligence Group**, where we explore the intersection of **Artificial Intelligence**, **Optimization**, and **Multi-Robot Systems** to build the future of intelligent autonomy — for good.
 
