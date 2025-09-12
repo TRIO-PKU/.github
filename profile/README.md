@@ -26,25 +26,38 @@ Together, we are committed to unlocking the full potential of **multi-agent robo
 
 Our mission is to empower robots with:
 
-- 💡 **Multi-Robot Task Planning**
-  ![Multi-Robot Task Planning](../images/multi_robot_task_planning.webp)
-- 🧩 **Multi-Robot Dynamic Hybrid Optimization Planning**
-  ![Multi-Robot Dynamic Hybrid Optimization Planning](../images/multi_robot_dynamic_hybrid_optimization.webp)
-- 🧠 **LLM-Based Multi-Robot Task Planning in Dynamic Unknown Environments**
-  ![LLM-Based Multi-Robot Task Planning](../images/llm_based_multi_robot_task_planning.webp)
-- 🔗 **Multi-Robot Task Planning under Communication Constraints**
-  ![Multi-Robot Task Planning under Communication Constraints](../images/multi_robot_task_planning_communication_constraints.webp)
+<br>
+
+### 💡 **Multi-Robot Task Planning**  
+![Multi-Robot Task Planning](../videos/ral.gif)  
+
+<br>
+
+### 🧩 **Multi-Robot Dynamic Hybrid Optimization Planning**  
+![Multi-Robot Dynamic Hybrid Optimization Planning](../videos/capture.gif)  
+
+<br>
+
+### 🧠 **LLM-Based Multi-Robot Task Planning in Dynamic Unknown Environments**  
+![LLM-Based Multi-Robot Task Planning](../videos/llm.gif)  
+
+<br>
+
+### 🔗 **Multi-Robot Task Planning under Communication Constraints**  
+![Multi-Robot Task Planning under Communication Constraints](../videos/slei3D-1.gif)  
+![Multi-Robot Task Planning under Communication Constraints](../videos/comm-1.gif)  
+
+<br>
 
 ---
-
 
 ## 🍿 Fun Fact
 
-We code with passion, debug with curiosity — and fuel ourselves with coffee, bubble tea, and curiosity.
+We believe in the power of collaboration, innovation, and continuous learning. Our team thrives on solving complex problems, pushing the boundaries of robotics, and making a tangible impact on the world.
 
 ---
 
-> 🧙‍♂️ *"You can do mighty things with Markdown — and even mightier ones with multi-robot intelligence."*
+> 🌟 *"The future belongs to those who dare to innovate and collaborate."*
 
 ---
 
