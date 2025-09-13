@@ -28,24 +28,37 @@ Our mission is to empower robots with:
 
 <br>
 
+
 ### 💡 **Multi-Robot Task Planning**  
-![Multi-Robot Task Planning](../videos/ral.gif)  
+
+![Multi-Robot Task Planning Demo](../videos/ral.gif)
 
 <br>
+
 
 ### 🧩 **Multi-Robot Dynamic Hybrid Optimization Planning**  
-![Multi-Robot Dynamic Hybrid Optimization Planning](../videos/capture.gif)  
+<!-- 没有catch.gif视频，选择最相关视频 intelligent catching multi robot system.mp4 -->
+![Multi-Robot Dynamic Hybrid Optimization Planning](../videos/capture.gif)
 
 <br>
+
 
 ### 🧠 **LLM-Based Multi-Robot Task Planning in Dynamic Unknown Environments**  
-![LLM-Based Multi-Robot Task Planning](../videos/llm.gif)  
+<!-- dexter.webm/llm.gif不存在，插入dexter.mp4和llm.mp4视频 -->
+<p align="center">
+  <img src="../videos/dexter.gif" alt="Dexter Demo" width="45%" style="display:inline-block; margin-right:10px;"/>
+  <img src="../videos/llm.gif" alt="LLM-Based Multi-Robot Task Planning" width="45%" style="display:inline-block;"/>
+</p>
 
 <br>
 
+
 ### 🔗 **Multi-Robot Task Planning under Communication Constraints**  
-![Multi-Robot Task Planning under Communication Constraints](../videos/slei3D-1.gif)  
-![Multi-Robot Task Planning under Communication Constraints](../videos/comm-1.gif)  
+<!-- slei3D-1.gif/comm-1.webm不存在，插入slei3D-1.mp4和comm-1.mp4视频 -->
+<p align="center">
+  <img src="../videos/slei3D-1.gif" alt="Dexter Demo" width="45%" style="display:inline-block; margin-right:10px;"/>
+  <img src="../videos/comm-1.gif" alt="LLM-Based Multi-Robot Task Planning" width="45%" style="display:inline-block;"/>
+</p>
 
 <br>
 
