@@ -45,20 +45,19 @@ Our mission is to empower robots with:
 
 ### 🧠 **LLM-Based Multi-Robot Task Planning in Dynamic Unknown Environments**  
 <!-- dexter.webm/llm.gif不存在，插入dexter.mp4和llm.mp4视频 -->
-<p align="center">
-  <img src="../videos/dexter.gif" alt="Dexter Demo" width="45%" style="display:inline-block; margin-right:10px;"/>
-  <img src="../videos/llm.gif" alt="LLM-Based Multi-Robot Task Planning" width="45%" style="display:inline-block;"/>
-</p>
+
+![Dexter Demo](../videos/dexter.gif)
+![LLM-Based Multi-Robot Task Planning](../videos/llm.gif)
+
 
 <br>
 
 
 ### 🔗 **Multi-Robot Task Planning under Communication Constraints**  
 <!-- slei3D-1.gif/comm-1.webm不存在，插入slei3D-1.mp4和comm-1.mp4视频 -->
-<p align="center">
-  <img src="../videos/slei3D-1.gif" alt="Dexter Demo" width="45%" style="display:inline-block; margin-right:10px;"/>
-  <img src="../videos/comm-1.gif" alt="LLM-Based Multi-Robot Task Planning" width="45%" style="display:inline-block;"/>
-</p>
+
+![Dexter Demo](../videos/slei3D-1.gif)
+![LLM-Based Multi-Robot Task Planning](../videos/comm-1.gif)
 
 <br>
 
