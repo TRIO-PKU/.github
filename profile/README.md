@@ -11,7 +11,7 @@ where we explore the intersection of **Artificial Intelligence**, **Optimization
 
 Our founding team consists of passionate researchers and students from top-tier institutions:
 
-![Junfeng Chen](../images/group_photo_CocoPlan.webp)  
+![Junfeng Chen](../images/group_Photo_LLM.webp)  
 ![SLEI3D Team](../images/group_photo_SLEI3D.webp)
 
 - 🧠 **[Junfeng Chen](https://example.com/junfeng)** — Ph.D. at *Peking University*, team leader  
